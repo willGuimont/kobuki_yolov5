@@ -1,6 +1,6 @@
-int64 x1
-int64 y1
-int64 x2
-int64 y2
-float32 confiance
+float64 x
+float64 y
+float64 w
+float64 h
+float64 confiance
 string object_class
