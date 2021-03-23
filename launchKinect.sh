@@ -1,1 +1,1 @@
-roslaunch openni_laucnch openni.launch
+roslaunch openni_launch openni.launch
