@@ -1,1 +1,1 @@
-run yolov5_detector yolo_detector.py
+rosrun yolov5_detector yolo_detector.py
